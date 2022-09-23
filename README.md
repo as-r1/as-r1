@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1>Hi, I'm Asef! <br/><a href="https://github.com/as-r1, <a href="https://www.linkedin.com/in/asefhoque">Data Scientist | Economist | Researcher </a>
 
-<!--
-**as-r1/as-r1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Research Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Economics of Substance Abuse(Ongoing)</b>
+- <b>Health Economics </b>
+- <b>Data Science and Medical Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Programming Skills </h2>
+-</b> R </b>
+-</b> Python </b>
+
+<h2> Statistical Software </h2>
+-STATA
+-SPSS
+-SAS
+-EViews
+<h2> <h2>
+
+- 🔭 I’m currently working on Health Economics and Data Science
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on the economics of substance abuse
